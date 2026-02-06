@@ -1235,7 +1235,7 @@ html {
 }
 
 .main-hero-image-area {
-    background: url(../images/hero-image.jpg) no-repeat;
+    background: url(../images/hero-bg.gif) no-repeat;
     background-size: cover;
     z-index: 1;
     position: relative;
